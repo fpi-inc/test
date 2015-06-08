@@ -1,4 +1,4 @@
 function test(){
-	console.log('fpi');
+	console.log('fpi-inc');
 }
 test();
